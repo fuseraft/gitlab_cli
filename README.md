@@ -1,5 +1,5 @@
 # gitlab_cli
-A Gitlab CLI tool written in Ruby.
+A simple Gitlab CLI tool written in Ruby.
 
 ### Usage
 
